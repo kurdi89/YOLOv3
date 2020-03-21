@@ -2,6 +2,8 @@
 
 > a simple example using the YOLOv3 to predict objects in images
 
+![cats](screenshot.png)
+
 ### to start
 
 download the `YOLOv3-320` weights and save it in the directory as `yolov3.weights` from [download](https://pjreddie.com/media/files/yolov3.weights) or find it [here](https://pjreddie.com/darknet/yolo/)
