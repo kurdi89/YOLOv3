@@ -135,7 +135,7 @@ msgpack==0.6.2
 multidict==4.7.3
 murmurhash==1.0.2
 nbconvert==5.6.1
-nbdime==1.1.0
+nbdime==1.1.1
 nbformat==4.4.0
 networkx==2.4
 nltk==3.4.5
